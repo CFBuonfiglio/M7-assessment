@@ -1,0 +1,18 @@
+Holiday
+----------
++Name: string
++Date: date
+----------
+del_alert: print(f"{name} ({date}) deleted!"
+
+
+@del_alert
+__del__: delete instance
+
+__gt__: compare by date
+
+__ge__: compare by date
+
+__eq__: compare by date
+
+__str__: Holiday Name (Date)
